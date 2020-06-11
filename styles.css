@@ -45,7 +45,7 @@ body{
     left: 35px;
     width: 65%;
     border-radius: 12px;
-    padding: 18px 50px;
+    padding: 18px 30px;
     margin-bottom: 5%;
     font-size: 16px;
     text-align: center;
@@ -80,7 +80,7 @@ h4 span {
 
 .formContainer button{
     background-color: hsl(154, 59%, 51%);
-    padding: 20px 100px;
+    padding: 20px 88px;
     border-radius: 10px;
     border: none;
     margin-left: 30px;
