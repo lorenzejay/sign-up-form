@@ -101,11 +101,11 @@ body{
     .head h2{
         font-size: 2em;
         font-weight: bold;
-        margin-left: 40px;
+        margin-left: 30px;
         text-align: center;
     }
     .head p{
-        margin-left: 40px;
+        margin-left: 30px;
         text-align: center;
         margin-top: 10%;
     }
