@@ -91,17 +91,17 @@ body{
 
 
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
     .wrapper-content{
         display: block;
     }
     .head h2{
         font-size: 2em;
         font-weight: bold;
-        margin-left: 35px;
+        margin-left: 30px;
     }
     .head p{
-        margin-left: 35px;
+        margin-left: 30px;
         text-align: center;
         margin-top: 10%;
     }
@@ -109,7 +109,7 @@ body{
         padding: 14px 35px;
         width: 60%;
         margin-top: 5%;
-        margin-left: 50px;
+        margin-left: 40px;
     }
     .formContainer{
         width: 90%;
@@ -120,6 +120,11 @@ body{
     .formContainer button{
         margin-left: 4px;
         padding: 14px 60px;
+    }
+    #error {
+        width: 90%;
+        float: left;
+
     }
 }
 
