@@ -5,6 +5,7 @@
 }
 body{
     background-color: hsl(0, 100%, 74%);
+    overflow-x:  hidden;
 }
 .background-image{
     position: absolute;
@@ -37,7 +38,7 @@ body{
 .container h4{
     background-color: #5D54A3;
     color: white;
-    padding: 14px 30px;
+    padding: 14px 27px;
     border-radius: 10px;
     font-size: 14px;
     width: 100%;
